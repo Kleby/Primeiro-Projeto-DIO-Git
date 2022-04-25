@@ -1,1 +1,11 @@
 Link para download do git https://github.com/Kleby/Primeiro-Projeto-DIO-Git
+
+
+depois de qualquer alteração add o item no repositório com 
+ git add nome_arquivo_modificado 	ou 	git add * para adiionar tudo
+
+após adicionar fazer um commit 
+ git commit -m "Informação da modificação"
+
+e por fim enviar para o repositório remoto com o push
+  git push origin nome_branch
